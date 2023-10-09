@@ -1,0 +1,63 @@
+Name:NULAKANI. ANUSHA
+Email:n180072@rguktn.ac.in
+phone number:8978892489
+Address:Mysannagudem village, Eluru district, Andhra Pradesh
+
+Objective
+I am a student who is pursuing Computer Science Engineering. I am looking for a challenging role in reputed
+company to utilize my engineering and programming skills that can contribute to company's growth as well as to
+enhance my knowledge by exploring new things.
+Education
+ZPHS School, Srinivasapuram, Eluru district
+Secondary education
+10.00
+Rajiv Gandhi University of knowledge Technologies, Nuzvid.
+PRE UNIVERSITY COURSE
+9.33
+Rajiv Gandhi University of knowledg Technologies, Nuzvid.
+BACHELOR OF TECHNOLOGY IN COMPUTER SCIENCE ENGINEERING
+8.77
+Skills
+C Programming Language
+Python Programming Language
+Java Programming Language
+Data Structures
+DBMS
+HTML
+CSS
+JavaScript
+Problem Solving
+Team Work
+Languages
+Telugu
+English
+Interests
+Problem Solving
+Learn new technologies
+Activities
+Participated in tech fest like TECKZITE-2k19.
+Participated in Science fair and did Field Friend and Checking Water Purification projects.
+Worked as a SPL
+Participated in so many games conducted by our school and college.
+Projects
+Transfer Learning for Stance detection
+1. In this project we try to Detect the Stance in Tweets.
+2. This project is for automatically determining the stance of an author based on the content of a single tweet.
+This approach was able to maximize the value of limited training data by transferring features from other
+systems trained on large, unlabeled datasets.
+3.For this project we use RNN model.
+Structural Embeddings (STEM)
+1. In this project I try to do stance detection with the help of structural data. 
+2. This approach involves generating  graph structure from the dataset. 
+3. And then apply the deepwalk algorithm for node embeddings. 
+4. After that utilize the CNN  for node classification. 
+Restaurant website
+1. This is a simple web page development project.
+2. This project is aimed to develop an online Restaurant website. 
+3. This website is helpful to choose items, and order them. It acts like a waiter in restaurants. There is no need of
+extra workers. 
+4. It is a responsive website, means that it is worked in laptops, mobiles, tablets and other electronic devices.
+This website is user friendly. 
+Declaration
+I consider myself familiar with Computer Science Engineering aspects. I am also confident about my ability to
+work in a team. I hereby declare that the information furnished above is true to the best of my knowledge
